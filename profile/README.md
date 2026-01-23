@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Study Smart, Stay Ahead" width="100%">
+<img src="Banner studo.png" alt="Study Smart, Stay Ahead" width="100%">
 
 Welcome to **[STUDO](https://www.studo.study/)**’s GitHub repository!  
 Studo is a **smart study platform** built to help students learn more efficiently through structured study sets, active recall, and intuitive tools. 🎓
